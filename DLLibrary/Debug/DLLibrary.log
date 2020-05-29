@@ -1,0 +1,14 @@
+﻿Построение начато 09.05.2020 15:33:04.
+     1>Проект "D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\DLLibrary\DLLibrary.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DLLIBRARY_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DLLibrary.cpp
+         DLLibrary.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\Debug\DLLibrary.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\Debug\DLLibrary.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\Debug\DLLibrary.lib" /MACHINE:X86 /DLL Debug\DLLibrary.obj
+            Создается библиотека D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\Debug\DLLibrary.lib и объект D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\Debug\DLLibrary.exp
+         DLLibrary.vcxproj -> D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\Debug\DLLibrary.dll
+     1>Построение проекта "D:\учёба 2 курс\Ucheba 4sem\АПК\Лабы\Me\LAB_5_WIN\DLLibrary\DLLibrary.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.45
